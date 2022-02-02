@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXoL7Peya0Lx9_s-cCas,javasecurity:S5167,CRITICAL,tarjetas.spv-tc-commons-auditory-client:src/main/java/ar/com/supervielle/auditory/filters/AddCorrelationAndRequestIdHeaderFilter.java,tarjetas.spv-tc-commons-auditory-client,48,OPEN,Change this code to not place user-controlled data in the header.,30min,2021-06-14T16:08:25-0300,2021-06-14T16:08:25-0300,VULNERABILITY

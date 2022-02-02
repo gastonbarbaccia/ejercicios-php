@@ -1,0 +1,3 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXUtCwKcDsuk3SE5OzHh,java:S4830,CRITICAL,portalclientes.bff-portal-clientes:src/main/java/com/ar/api/adapter/rest/AdapterRest.java,portalclientes.bff-portal-clientes,22,OPEN,Enable server certificate validation on this SSL/TLS connection.,5min,2020-10-15T13:14:07-0300,2020-10-15T13:14:07-0300,VULNERABILITY
+AXUtCwKcDsuk3SE5OzHi,java:S4830,CRITICAL,portalclientes.bff-portal-clientes:src/main/java/com/ar/api/adapter/rest/AdapterRest.java,portalclientes.bff-portal-clientes,23,OPEN,Enable server certificate validation on this SSL/TLS connection.,5min,2020-10-15T13:14:07-0300,2020-10-15T13:14:07-0300,VULNERABILITY

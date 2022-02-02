@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXj01P4qDsuk3SE5fBmm,javascript:S2819,CRITICAL,inversiones.fe-sitio-fondos-premier:pages/Preview.js,inversiones.fe-sitio-fondos-premier,41,OPEN,Make sure this cross-domain message is being sent to the intended domain.,10min,2021-04-21T11:28:07-0300,2021-04-21T11:28:07-0300,VULNERABILITY

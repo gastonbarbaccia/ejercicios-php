@@ -1,0 +1,3 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXpE5EDpa0Lx9_s-ai5b,csharpsquid:S4830,CRITICAL,cheques.api-echeq-devoluciones:spv.echeck.devolutions.api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-devoluciones,42,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:37:17-0300,2021-06-25T17:37:17-0300,VULNERABILITY
+AXpE5EDpa0Lx9_s-ai5c,csharpsquid:S4830,CRITICAL,cheques.api-echeq-devoluciones:spv.echeck.devolutions.api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-devoluciones,65,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:37:17-0300,2021-06-25T17:37:17-0300,VULNERABILITY

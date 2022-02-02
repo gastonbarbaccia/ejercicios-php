@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXXWg3-KDsuk3SE5R-Nu,java:S2647,CRITICAL,gestion-documental.api-documental:src/main/java/com/supervielle/documentosdigitales/thuban/ThubanClient.java,gestion-documental.api-documental,153,OPEN,Use a more secure method than basic authentication.,2h,2020-11-17T11:01:51-0300,2020-11-17T11:01:51-0300,VULNERABILITY

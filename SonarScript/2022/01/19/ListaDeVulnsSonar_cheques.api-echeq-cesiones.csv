@@ -1,0 +1,4 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXpE4reda0Lx9_s-aVDt,csharpsquid:S4423,CRITICAL,cheques.api-echeq-cesiones:Spv.Echeck.Cessions.Api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-cesiones,23,OPEN,Change this code to use a stronger protocol.,2min,2021-06-25T17:35:35-0300,2021-12-27T10:09:54-0300,VULNERABILITY
+AXpE4reda0Lx9_s-aVDu,csharpsquid:S4423,CRITICAL,cheques.api-echeq-cesiones:Spv.Echeck.Cessions.Api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-cesiones,23,OPEN,Change this code to use a stronger protocol.,2min,2021-06-25T17:35:35-0300,2021-12-27T10:09:54-0300,VULNERABILITY
+AXpE4reda0Lx9_s-aVDs,csharpsquid:S4830,CRITICAL,cheques.api-echeq-cesiones:Spv.Echeck.Cessions.Api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-cesiones,39,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:35:35-0300,2021-06-25T17:35:35-0300,VULNERABILITY

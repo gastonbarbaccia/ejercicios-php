@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXpE5BXFa0Lx9_s-agEm,csharpsquid:S4830,CRITICAL,cheques.api-echeq-aprobaciones:spv.echeck.approval/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-aprobaciones,40,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:37:06-0300,2021-06-25T17:37:06-0300,VULNERABILITY

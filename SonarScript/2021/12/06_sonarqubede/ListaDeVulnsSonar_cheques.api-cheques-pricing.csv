@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXs_7zTz_e4apv9kCsZD,csharpsquid:S4830,CRITICAL,cheques.api-cheques-pricing:Spv.MotorDePrecio.Api/Clients/HttpClientServiceExtension.cs,cheques.api-cheques-pricing,37,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-08-13T11:33:55-0300,2021-08-13T11:33:55-0300,VULNERABILITY

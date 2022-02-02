@@ -1,0 +1,4 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXpogWcqa0Lx9_s-A7y0,csharpsquid:S4830,CRITICAL,cobranzas.api-mora:Spv.mora.Api/Clients/HttpClientServiceExtension.cs,cobranzas.api-mora,37,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-07-02T15:35:39-0300,2021-07-02T15:35:39-0300,VULNERABILITY
+AXpogWcqa0Lx9_s-A7y1,csharpsquid:S4830,CRITICAL,cobranzas.api-mora:Spv.mora.Api/Clients/HttpClientServiceExtension.cs,cobranzas.api-mora,54,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-07-02T15:35:39-0300,2021-07-02T15:35:39-0300,VULNERABILITY
+AXpogWcqa0Lx9_s-A7y2,csharpsquid:S4830,CRITICAL,cobranzas.api-mora:Spv.mora.Api/Clients/HttpClientServiceExtension.cs,cobranzas.api-mora,70,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-07-02T15:35:39-0300,2021-07-02T15:35:39-0300,VULNERABILITY

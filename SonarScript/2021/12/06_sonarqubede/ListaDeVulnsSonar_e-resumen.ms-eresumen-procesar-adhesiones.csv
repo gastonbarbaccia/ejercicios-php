@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXt9z1HF_e4apv9k94Cq,javasecurity:S5167,CRITICAL,e-resumen.ms-eresumen-procesar-adhesiones:src/main/java/com/supervielle/ms/eresumen/filter/FilterRequestHeader.java,e-resumen.ms-eresumen-procesar-adhesiones,51,OPEN,Change this code to not place user-controlled data in the header.,30min,2021-08-25T10:41:23-0300,2021-08-25T10:41:23-0300,VULNERABILITY

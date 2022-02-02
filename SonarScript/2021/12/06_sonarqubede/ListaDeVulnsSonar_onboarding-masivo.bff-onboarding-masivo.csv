@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXr32v3Ea0Lx9_s-X44_,java:S2755,BLOCKER,onboarding-masivo.bff-onboarding-masivo:src/main/java/ar/com/supervielle/ob/formularios/interceptors/SoapInterceptor.java,onboarding-masivo.bff-onboarding-masivo,54,OPEN,Disable access to external entities in XML parsing.,15min,2021-07-30T11:38:25-0300,2021-07-30T11:38:25-0300,VULNERABILITY

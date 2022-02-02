@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXog_Uhqa0Lx9_s-8MFY,csharpsquid:S4830,CRITICAL,pagos.ms-pagos-de-servicio-operaciones:Spv.Payments.Operations/Clients/HttpClientServiceExtension.cs,pagos.ms-pagos-de-servicio-operaciones,67,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-18T18:18:15-0300,2021-06-18T18:18:15-0300,VULNERABILITY

@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AX2BQ4WyFhMNhOYSEYDN,java:S2755,BLOCKER,beneficios-reward.api-beneficios-reward:src/main/java/com/supervielle/api/beneficiosreward/domain/usecase/BeneficiosRewardUseCase.java,beneficios-reward.api-beneficios-reward,108,OPEN,Disable access to external entities in XML parsing.,15min,2021-12-03T14:06:49-0300,2021-12-03T14:06:49-0300,VULNERABILITY

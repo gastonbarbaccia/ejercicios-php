@@ -1,0 +1,3 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXKjZhXQadNZmt3OOYNx,java:S5547,CRITICAL,ife.ms-sms-ife:src/main/java/com/supervielle/mssmsife/utils/crypto/Cifrado.java,ife.ms-sms-ife,63,OPEN,Use a strong cipher algorithm.,,2020-06-11T09:41:03-0300,2020-06-11T09:41:03-0300,VULNERABILITY
+AXKasyqBadNZmt3OOVYK,java:S5547,CRITICAL,ife.ms-sms-ife:src/main/java/com/supervielle/mssmsife/utils/crypto/Cifrado.java,ife.ms-sms-ife,49,OPEN,Use a strong cipher algorithm.,,2020-06-09T14:21:58-0300,2020-06-09T17:08:42-0300,VULNERABILITY

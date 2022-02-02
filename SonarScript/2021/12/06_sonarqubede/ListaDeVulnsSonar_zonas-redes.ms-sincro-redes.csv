@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXo1s5tKa0Lx9_s-EIwD,javascript:S5542,BLOCKER,zonas-redes.ms-sincro-redes:api/services/encryptionServiceAES128-IV.js,zonas-redes.ms-sincro-redes,14,OPEN,Use a secure mode and padding scheme.,,2021-06-22T18:49:48-0300,2021-06-22T18:49:48-0300,VULNERABILITY

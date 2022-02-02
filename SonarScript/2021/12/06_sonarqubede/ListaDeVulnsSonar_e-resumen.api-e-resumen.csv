@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXt9ytS0_e4apv9k9x86,javasecurity:S5167,CRITICAL,e-resumen.api-e-resumen:src/main/java/com/supervielle/api/eresumen/filter/header/FilterRequestHeader.java,e-resumen.api-e-resumen,74,OPEN,Change this code to not place user-controlled data in the header.,30min,2021-08-25T10:43:12-0300,2021-08-25T10:43:12-0300,VULNERABILITY

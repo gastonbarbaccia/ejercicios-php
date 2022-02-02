@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXTkXesoDsuk3SE5NrHj,javascript:S2819,CRITICAL,sitio-publico.fe-sitio-publico:pages/Preview.js,sitio-publico.fe-sitio-publico,94,OPEN,Make sure this cross-domain message is being sent to the intended domain.,10min,2020-10-01T10:32:05-0300,2021-08-02T10:17:35-0300,VULNERABILITY

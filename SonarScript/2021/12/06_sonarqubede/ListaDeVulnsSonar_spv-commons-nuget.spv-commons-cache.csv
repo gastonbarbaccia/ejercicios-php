@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AX05SmhTFhMNhOYSB4a7,csharpsquid:S4830,CRITICAL,spv-commons-nuget.spv-commons-cache:src/Spv.Commons.CacheCanales/ResultManager/CacheCanalesHttpClientFactory.cs,spv-commons-nuget.spv-commons-cache,11,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-11-16T16:58:18-0300,2021-11-19T14:41:44-0300,VULNERABILITY

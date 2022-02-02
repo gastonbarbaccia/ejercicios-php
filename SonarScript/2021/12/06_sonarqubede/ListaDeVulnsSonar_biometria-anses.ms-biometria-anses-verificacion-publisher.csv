@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXoVtu5Oa0Lx9_s-pxq0,jssecurity:S5131,BLOCKER,biometria-anses.ms-biometria-anses-verificacion-publisher:routes/api.js,biometria-anses.ms-biometria-anses-verificacion-publisher,67,OPEN,Change this code to not reflect user-controlled data.,30min,2021-06-16T13:45:32-0300,2021-06-16T13:45:32-0300,VULNERABILITY

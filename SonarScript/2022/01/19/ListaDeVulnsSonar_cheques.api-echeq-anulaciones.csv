@@ -1,0 +1,3 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXpE4WWFa0Lx9_s-aQMz,csharpsquid:S4830,CRITICAL,cheques.api-echeq-anulaciones:Spv.Echeck.Annulations.Api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-anulaciones,39,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:34:10-0300,2021-06-25T17:34:10-0300,VULNERABILITY
+AXpE4WWFa0Lx9_s-aQM0,csharpsquid:S4830,CRITICAL,cheques.api-echeq-anulaciones:Spv.Echeck.Annulations.Api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-anulaciones,60,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:34:10-0300,2021-06-25T17:34:10-0300,VULNERABILITY

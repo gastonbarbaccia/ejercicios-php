@@ -1,0 +1,2 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXoMINZAa0Lx9_s-dvyg,javasecurity:S5167,CRITICAL,tarjetas.api-tarjetas:src/main/java/ar/com/supervielle/apitarjetas/configuracion/logging/AddCorrelationAndRequestIdHeaderFilter.java,tarjetas.api-tarjetas,41,OPEN,Change this code to not place user-controlled data in the header.,30min,2021-06-14T17:04:06-0300,2021-06-14T17:04:06-0300,VULNERABILITY

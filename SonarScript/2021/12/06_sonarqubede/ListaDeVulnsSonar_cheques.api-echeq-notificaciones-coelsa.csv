@@ -1,0 +1,3 @@
+key,rule,severity,component,project,line,status,message,effort,creationDate,updateDate,type
+AXpE4cfFa0Lx9_s-aRIe,csharpsquid:S4830,CRITICAL,cheques.api-echeq-notificaciones-coelsa:Spv.Echeck.Notifications.Api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-notificaciones-coelsa,80,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:34:25-0300,2021-06-25T17:34:25-0300,VULNERABILITY
+AXpE4cfFa0Lx9_s-aRIh,csharpsquid:S4830,CRITICAL,cheques.api-echeq-notificaciones-coelsa:Spv.Echeck.Notifications.Api/Clients/HttpClientServiceExtension.cs,cheques.api-echeq-notificaciones-coelsa,105,OPEN,Enable server certificate validation on this SSL/TLS connection,5min,2021-06-25T17:34:25-0300,2021-06-25T17:34:25-0300,VULNERABILITY
